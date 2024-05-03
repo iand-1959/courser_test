@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+<H1>1.HTML</H1>
+<br>
+<br>
+<br>
+<H2>Data will be loaded here</H2>
+<br>
+<br>
+<p>This has taken an awful long time</p>
+
+<div id="m_footer">
+<p>This is the mini footer of my new form</p>
+
+</div>
+
+</body>
+</html>
